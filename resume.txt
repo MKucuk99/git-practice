@@ -1,3 +1,2 @@
-name: Kunkka
-occupation: Admiral
-objective : to be admired and remembered for good thingsgit 
+name: Edward
+strength: there are many of them,it takes too much time to list all  and also good at git
